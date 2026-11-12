@@ -1,0 +1,11 @@
+# data from Kaggle (download it yourself, see README)
+data/*.csv
+submission.csv
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
